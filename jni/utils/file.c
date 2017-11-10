@@ -6,6 +6,7 @@
 #include <unistd.h>
 #include <sys/sendfile.h>
 #include <sys/mman.h>
+#include <errno.h>
 
 #ifndef NO_SELINUX
 #include <selinux/selinux.h>

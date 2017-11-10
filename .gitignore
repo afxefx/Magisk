@@ -4,6 +4,7 @@ libs/
 *.zip
 *.jks
 *.apk
+*.*~
 
 # Built binaries
 ziptools/zipadjust

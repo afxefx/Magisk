@@ -14,6 +14,7 @@
 #include <sys/mount.h>
 #include <sys/wait.h>
 #include <sys/stat.h>
+#include <unistd.h>
 
 #include "logging.h"
 #include "utils.h"
